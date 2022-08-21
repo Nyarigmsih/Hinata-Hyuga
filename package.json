@@ -16,7 +16,7 @@
   "botmd",
   "bot-md"
   ],
-  "author": "Riy",
+  "author": "Adit",
   "license": "MIT",
   "dependencies": {
   "@adiwajshing/baileys": "^4.1.0",
